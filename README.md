@@ -1,3 +1,6 @@
+## http, ssh, xml, json, ajax, docer, apache, nginx, orm, mvc, sql, rest api, soap, websoket, DNS, linux, imap, smtp, git, ipv4
+
+
 # 1: [Камбан](https://www.youtube.com/watch?v=c1Vl7geFjl0)
 
 ___________________________________________________________
